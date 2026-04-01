@@ -1,0 +1,7 @@
+{
+  "name": "PawConnect",
+  "description": "A comprehensive Pet Care, Adoption, and E-commerce platform featuring breed information, nutrition guides, vet consultations, and a pet marketplace.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
